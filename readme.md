@@ -1,0 +1,1 @@
+Origional Link: https://github.com/bhancockio/langchain-crash-course
